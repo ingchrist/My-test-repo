@@ -1,0 +1,230 @@
+{
+    "logistics": [
+        {
+            "name": "GNG logistics",
+            "email": "gng.logistics@gng.io"
+        },
+        {
+            "name": "SwiftCargo Express",
+            "email": "info@swiftcargo.com"
+        },
+        {
+            "name": "TransGlobal Shipping",
+            "email": "contact@transglobalship.com"
+        },
+        {
+            "name": "FreightMasters Inc.",
+            "email": "info@freightmastersinc.com"
+        },
+        {
+            "name": "LogiTranz Solutions",
+            "email": "info@logitranz.com"
+        },
+        {
+            "name": "GlobalReach Logistics",
+            "email": "info@globalreachlogistics.com"
+        },
+        {
+            "name": "CargoLink Worldwide",
+            "email": "contact@cargolinkworldwide.com"
+        },
+        {
+            "name": "NexaLogistics Group",
+            "email": "info@nexalogisticsgroup.com"
+        },
+        {
+            "name": "ProShip Alliance",
+            "email": "contact@proshipalliance.com"
+        },
+        {
+            "name": "OnPoint Logistics",
+            "email": "info@onpointlogistics.com"
+        }
+    ],
+    "locations": [
+        {
+            "from": "Ikorodu, Lagos",
+            "to": "Iwo Road, Ibadan"
+        },
+        {
+            "from": "Lekki, Lagos",
+            "to": "Ojota, Lagos"
+        },
+        {
+            "from": "Kano, Kano",
+            "to": "Abuja, FCT"
+        },
+        {
+            "from": "Port Harcourt, Rivers",
+            "to": "Uyo, Akwa Ibom"
+        },
+        {
+            "from": "Warri, Delta",
+            "to": "Benin City, Edo"
+        },
+        {
+            "from": "Enugu, Enugu",
+            "to": "Onitsha, Anambra"
+        },
+        {
+            "from": "Abeokuta, Ogun",
+            "to": "Akure, Ondo"
+        },
+        {
+            "from": "Kaduna, Kaduna",
+            "to": "Jos, Plateau"
+        },
+        {
+            "from": "Makurdi, Benue",
+            "to": "Lafia, Nasarawa"
+        },
+        {
+            "from": "Aba, Abia",
+            "to": "Owerri, Imo"
+        },
+        {
+            "from": "Calabar, Cross River",
+            "to": "Umuahia, Abia"
+        },
+        {
+            "from": "Sokoto, Sokoto",
+            "to": "Gusau, Zamfara"
+        },
+        {
+            "from": "Yenagoa, Bayelsa",
+            "to": "Asaba, Delta"
+        },
+        {
+            "from": "Gombe, Gombe",
+            "to": "Yola, Adamawa"
+        },
+        {
+            "from": "Katsina, Katsina",
+            "to": "Dutse, Jigawa"
+        },
+        {
+            "from": "Eket, Akwa Ibom",
+            "to": "Ikom, Cross River"
+        },
+        {
+            "from": "Ijebu-Ode, Ogun",
+            "to": "Epe, Lagos"
+        },
+        {
+            "from": "Keffi, Nasarawa",
+            "to": "Minna, Niger"
+        },
+        {
+            "from": "Ado-Ekiti, Ekiti",
+            "to": "Ilorin, Kwara"
+        },
+        {
+            "from": "Maiduguri, Borno",
+            "to": "Damaturu, Yobe"
+        },
+        {
+            "from": "Ogbomoso, Oyo",
+            "to": "Ilesa, Osun"
+        },
+        {
+            "from": "Auchi, Edo",
+            "to": "Okene, Kogi"
+        },
+        {
+            "from": "Ijebu Igbo, Ogun",
+            "to": "Ijebu Jesa, Osun"
+        },
+        {
+            "from": "Lafia, Nasarawa",
+            "to": "Makurdi, Benue"
+        },
+        {
+            "from": "Nsukka, Enugu",
+            "to": "Awka, Anambra"
+        },
+        {
+            "from": "Zaria, Kaduna",
+            "to": "Kaura Namoda, Zamfara"
+        },
+        {
+            "from": "Ilorin, Kwara",
+            "to": "Abeokuta, Ogun"
+        },
+        {
+            "from": "Kano, Kano",
+            "to": "Gombe, Gombe"
+        },
+        {
+            "from": "Ondo, Ondo",
+            "to": "Auchi, Edo"
+        },
+        {
+            "from": "Uyo, Akwa Ibom",
+            "to": "Calabar, Cross River"
+        },
+        {
+            "from": "Jos, Plateau",
+            "to": "Maiduguri, Borno"
+        },
+        {
+            "from": "Sapele, Delta",
+            "to": "Agbor, Delta"
+        },
+        {
+            "from": "Katsina, Katsina",
+            "to": "Daura, Katsina"
+        },
+        {
+            "from": "Onitsha, Anambra",
+            "to": "Enugu, Enugu"
+        },
+        {
+            "from": "Ibadan, Oyo",
+            "to": "Akure, Ondo"
+        },
+        {
+            "from": "Lokoja, Kogi",
+            "to": "Abuja, FCT"
+        },
+        {
+            "from": "Ijebu Ode, Ogun",
+            "to": "Shagamu, Ogun"
+        },
+        {
+            "from": "Gusau, Zamfara",
+            "to": "Kaura Namoda, Zamfara"
+        },
+        {
+            "from": "Owerri, Imo",
+            "to": "Umuahia, Abia"
+        },
+        {
+            "from": "Nnewi, Anambra",
+            "to": "Awka, Anambra"
+        },
+        {
+            "from": "Okene, Kogi",
+            "to": "Lokoja, Kogi"
+        },
+        {
+            "from": "Aba, Abia",
+            "to": "Ahoada, Rivers"
+        },
+        {
+            "from": "Keffi, Nasarawa",
+            "to": "Jos, Plateau"
+        },
+        {
+            "from": "Ikom, Cross River",
+            "to": "Ogoja, Cross River"
+        },
+        {
+            "from": "Abeokuta, Ogun",
+            "to": "Ijebu Igbo, Ogun"
+        },
+        {
+            "from": "Kaduna, Kaduna",
+            "to": "Zaria, Kaduna"
+        }
+    ]
+}
